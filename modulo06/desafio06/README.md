@@ -84,5 +84,5 @@ Exemplo de código:
 
 Resultado:
 
-![Preview Parte 1](/preview_pt1.gif)
-![Preview Parte 2](/preview_pt2.gif)
+![Preview Parte 1](preview_pt1.gif)
+![Preview Parte 2](preview_pt2.gif)
